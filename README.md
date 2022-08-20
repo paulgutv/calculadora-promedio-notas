@@ -9,6 +9,6 @@ Actualmente, los cálculos se realizan automáticamente a través de hojas de Ex
 - CSS
 - JavaScript
 
-### Autores ✒️
+### Autor ✒️
 
 Paul Gutierrez Velasco
