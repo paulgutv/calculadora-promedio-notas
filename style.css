@@ -164,6 +164,10 @@ input {
     box-shadow: 3px 3px teal;
 }
 
+.plus-button:hover {
+    background-color: #8C7BD1;
+}
+
 button {
     margin: 30px;
     width: 80px;
@@ -187,9 +191,17 @@ button:active {
     box-shadow: 3px 3px teal;
 }
 
+.calculate-button:hover {
+    background-color: #FF9B00;
+}
+
 .reset-button {
     background-color: forestgreen;
     font-weight: bold;
     color: white;
     box-shadow: 3px 3px teal;
+}
+
+.reset-button:hover {
+    background-color: #3E9A1E;
 }
